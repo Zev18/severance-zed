@@ -1,0 +1,7 @@
+id = "severance-theme"
+name = "Severance Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Zev Ross <zevross@gmail.com>"]
+description = "A theme for the Zed text editor based on the computer interface from the tv show Severance."
+repository = "https://github.com/Zev18/severance-zed"
